@@ -10,8 +10,8 @@ export default function Home({ setting }) {
   return (
     <div className='lg:h-screen mt-20 lg:mt-0  xl:mt-0 mb-10 xl:mb-0 flex xl:items-center xl:flex-row flex-col-reverse' >
       <MetaSeo
-        title='Hello World, i`m Harithya Wisesa'
-        description='Hello World, nama saya Harithya Wisesa, saat ini saya bekerja di sebuah IT Contsultant di Tasikmalaya sebagai fullstack developer. Tapi untuk saat ini saya lebih cenderung bekerja di bagian mobile developer dan juga fontend menggunakan ekosistem React baik itu React JS ataupun React Native.'
+        title='Hello World, i`m Adi Wasesa'
+        description='Hello World, nama saya Adi Wasesa, saat ini saya bekerja di sebuah IT Contsultant di Tasikmalaya sebagai fullstack developer. Tapi untuk saat ini saya lebih cenderung bekerja di bagian mobile developer dan juga fontend menggunakan ekosistem React baik itu React JS ataupun React Native.'
       />
       <div className='xl:w-7/12' data-aos="fade-up">
         <h1 className='font-doodle h-20 lg:h-auto  tracking-widest xl:text-4xl text-3xl  text-center xl:text-left'>

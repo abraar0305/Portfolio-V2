@@ -12,7 +12,7 @@ export default function MainLayout({ children }) {
                 </div>
                 <SwitchMode />
                 <footer className='text-center py-5'>
-                    <span className='xl:text-sm text-xs  font-medium'>Copyright © 2021 Haruthya. inspiration  <a rel="noreferrer" target={"_blank"} className="underline text-blue-500" href='https://www.wisesa.dev/'>
+                    <span className='xl:text-sm text-xs  font-medium'>Copyright © 2021 WasesaArt. Collection  <a rel="noreferrer" target={"_blank"} className="underline text-blue-500" href='https://www.wisesa.dev/'>
                         wisesa.dev</a> & illustration  <a rel="noreferrer" target={"_blank"} className="underline text-blue-500" href='https://weareskribbl.com/'>
                             weareskribbl.com</a> </span>
                 </footer>
